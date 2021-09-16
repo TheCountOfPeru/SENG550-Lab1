@@ -1,4 +1,4 @@
-# SENG550-Lab1
+# SENG550-Lab1-Exploring-Hadoop-MapReduce
 
 Question 1: This python code randomly selects 10% of the input dataset and saves it on a distributed file system using Hadoop MapReduce. 
 
